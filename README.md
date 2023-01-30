@@ -3,7 +3,7 @@
 
 -Main Page with links to different categories
 
--Sign In/Sign Up Page
+-Sign Up & Sign In w/ Google or Email-Pwd
 
 -Shope Page with different categories with 4 sample products of each (Category Title as Link to Category Page)
 
