@@ -1,5 +1,5 @@
 # Crown e-Commerce with React-Firebase-StyledComponents-Redux-ReduxPersist-Redux-Thunk
-# Make use of Redux-Thunk as Middleware, Loading spinner & persist only cart items
+### Make use of Redux-Thunk as Middleware, Loading spinner & persist only cart items
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
